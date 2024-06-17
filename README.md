@@ -7,7 +7,7 @@ Privacy Policy: https://twitter.com/en/privacy
 Developer Agreement: https://developer.twitter.com/en/developer-terms/agreement
 Developer Policy: https://developer.twitter.com/en/developer-terms/policy
 before receiving the password.
-Please send an email to: mohsen(@)sabanciuniv.edu
+Please send an email to: bahrami(@)mit.edu
 
 The dataset is also available on the New College of Florida's Public Repository (Digital Collections) via following link:
 URL to the dataset: http://ncf.sobek.ufl.edu/l/AA00026776 and to the bibliographic information: http://ncf.sobek.ufl.edu/l/AA00026776/00001/citation 
